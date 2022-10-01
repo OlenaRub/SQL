@@ -1,0 +1,118 @@
+5bb446afaa33d1b9fe000050|my.tccd.edu|US|Fort Worth|76111|mobile-user|2018-10-03 04:33:52
+5bb42faf961baee3c900022b|uark.edu|US|Fayetteville|72701|mobile-user|2018-10-03 02:55:44
+5bb368ebb1b21e9b55000258|g.clemson.edu|US|Clemson|29631|mobile-user|2018-10-02 12:47:41
+5bb359de51d6f50e6d00005f|njit.edu|US|Westfield|7090|mobile-user|2018-10-02 11:43:27
+5bb2f0b1927cfcc5e40001d0|tkc.edu|US|Brooklyn|11201|mobile-user|2018-10-02 04:14:42
+5bb2d49c23cd53279b00012f|laverne.edu|US|Fontana|92336|mobile-user|2018-10-02 02:14:54
+5bb2baceaa33d16d31000201|newschool.edu|US|The Bronx|10472|mobile-user|2018-10-02 00:24:47
+5bb25cddaa33d167b200018c|student.cccd.edu|US|Chula Vista|91913|mobile-user|2018-10-01 17:43:59
+5bb232389c3fe77f64000264|nau.edu|US|Winchester|22602|mobile-user|2018-10-01 14:42:01
+5bb17927b1b21e7de8000578|illinois.edu|US|Darien|60561|mobile-user|2018-10-01 01:32:24
+5bb16f0eb1b21e89920000c7|umass.edu|US|Pittsfield|1201|mobile-user|2018-10-01 00:49:19
+5bb0d70c51d6f5a477000296|nsuok.edu|US|Cape Girardeau|63701|mobile-user|2018-09-30 14:00:45
+5baf01fbaa12440aa600009e|cougars.csusm.edu|US|San Diego|92110|mobile-user|2018-09-29 04:39:25
+5bae5a20b1b21efe57000192|ucsd.edu|US|Brooklyn|11205|mobile-user|2018-09-28 16:43:13
+5bad601b23cd5310d300030e|unomaha.edu|US|||mobile-user|2018-09-27 22:56:28
+5bad5d7b9c3fe75dea000258|wells.edu|US|Ithaca|14850|mobile-user|2018-09-27 22:45:17
+5bad1a42821b96228200002f|virginia.edu|US|Washington|20036|mobile-user|2018-09-27 17:58:28
+5bacd33f7fd36ad44b000016|somaiya.edu|IN|||mobile-user|2018-09-27 12:55:29
+5baada1aaa1244f2b700032f|auburn.edu|US|Auburn|36849|mobile-user|2018-09-26 01:00:12
+5baac69baa33d173f4000184|tamu.edu|US|San Antonio|78255|mobile-user|2018-09-25 23:37:00
+5bb446afaa33d1b9fe000050|completed|||completed|
+5bb42faf961baee3c900022b|completed|started||completed|
+5bb368ebb1b21e9b55000258||started|||
+5bb359de51d6f50e6d00005f|started|completed|completed|started|completed
+5bb2f0b1927cfcc5e40001d0|started|completed|started|started|
+5bb2d49c23cd53279b00012f|started|started|completed|started|
+5bb2baceaa33d16d31000201||completed|started||
+5bb25cddaa33d167b200018c|completed|completed||completed|
+5bb232389c3fe77f64000264|completed|completed||completed|
+5bb17927b1b21e7de8000578|||||
+5bb16f0eb1b21e89920000c7||completed|||
+5bb0d70c51d6f5a477000296||||completed|
+5baf01fbaa12440aa600009e|started|started|started||
+5bae5a20b1b21efe57000192||completed|||
+5bad601b23cd5310d300030e|completed|completed|completed|completed|
+5bad5d7b9c3fe75dea000258|||||
+5bad1a42821b96228200002f|started|||started|started
+5bacd33f7fd36ad44b000016||completed|||
+5baada1aaa1244f2b700032f|||completed|completed|
+5baac69baa33d173f4000184||completed||completed|
+ucsd.edu|193
+cps.edu|55
+ku.edu|50
+vt.edu|40
+oregonstate.edu|38
+msu.edu|33
+strathmore.edu|29
+umich.edu|25
+u.northwestern.edu|25
+nyu.edu|23
+pace.edu|22
+asu.edu|22
+berkeley.edu|18
+ucdavis.edu|17
+husky.neu.edu|16
+drexel.edu|16
+baylor.edu|16
+g.ucla.edu|15
+utexas.edu|13
+ucsc.edu|13
+monmouth.edu|13
+case.edu|13
+uw.edu|12
+usc.edu|12
+tamu.edu|12
+50
+330
+00|100
+01|93
+02|73
+03|84
+04|74
+05|29
+06|30
+07|16
+08|18
+09|9
+10|10
+11|13
+12|27
+13|80
+14|101
+15|103
+16|183
+17|174
+18|185
+19|147
+20|138
+21|104
+22|105
+23|104
+aa.edu|1|1|1|1|0
+aauni.edu|1|0|0|0|0
+acu.edu|2|1|0|1|0
+africau.edu|1|1|1|1|0
+aggies.ncat.edu|2|3|2|3|0
+aii.edu|0|0|1|1|0
+alaska.edu|2|2|2|1|1
+albany.edu|1|2|0|2|1
+albertus.edu|1|1|0|1|0
+alcorn.edu|0|0|1|1|0
+allegheny.edu|0|0|0|0|0
+alliant.edu|1|0|0|1|0
+alumni.baylor.edu|0|0|0|1|0
+alumni.cmu.edu|0|0|0|1|0
+alumni.mib.edu|1|1|1|1|0
+alumni.mondragon.edu|0|0|0|1|0
+alumni.scu.edu|0|1|0|1|0
+alumni.stanford.edu|0|1|0|0|0
+alumno.utesa.edu|1|2|1|2|0
+andrew.cmu.edu|1|0|0|3|1
+anselm.edu|0|0|0|1|0
+appstate.edu|0|0|0|1|0
+aps.edu|3|3|2|2|1
+artic.edu|1|0|1|0|1
+asu.edu|7|6|7|7|6
+New York|16|25|14|29|8
+Chicago|37|42|29|46|16
